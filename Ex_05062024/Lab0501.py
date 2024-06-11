@@ -1,4 +1,5 @@
 print("hello world",123,True,2.14,)
+print("Hi", "nutan", "sanware",sep="-",end="\t")
 print("hi my name is","nutan", sep= '=')
 print("i am good person", end="_",)
 print("i am bad person")

@@ -8,6 +8,9 @@ print(type(number))
 # Dynamic type - type
 age = 23
 name = "nutan"
+sir_name = 'sanware'
+mid_name = """Lal"""
+
 pi = 34.00
 isFemale = 'True'
 
@@ -15,6 +18,8 @@ isFemale = 'True'
 # How do I check the type of the variable?
 print(type(age))
 print(type(name))
+print(type(sir_name))
+print(type(mid_name))
 print(type(pi))
 print(type(isFemale))
 
