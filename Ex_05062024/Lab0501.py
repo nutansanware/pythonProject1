@@ -1,4 +1,4 @@
-print("hello world",123,True,2.14,)#print command - print()
+#print("hello world",123,True,2.14,)#print command - print()
 print("Hi", "nutan", "sanware",sep="-",end="\t")
 print("hi my name is","nutan", sep= '=')
 print("i am good person", end="_",)

@@ -28,12 +28,7 @@ print(x ** y)  # 8 (2 to the power of 3)
 # ^  bitwise operator its perform logical operator
 a = 4
 print(a ^3)
-#In binary:
 #4-	     0100
 #3-	   ^ 0011
 #result: 0111-7
 
-
-#4 What is the difference between the / and // operators in Python?
-#/ returns the quotient of the division operation
-a = 5
